@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602089371 source:d:\documents\esg\learnc101\rotating balls\main.cpp
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<math.h>
+
+1670743689 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\rotating balls\main.cpp
+	<windows.h>
+	<tchar.h>
+	<iostream>
+	<math.h>
+
